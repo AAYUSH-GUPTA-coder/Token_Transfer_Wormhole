@@ -1,0 +1,2 @@
+CrossChainSender deployed on Fuji at: 0x8B7ce0f9a1D19646a695e367e47260C6104Fb99A
+CrossChainReceiver deployed on Celo at: 0x9768C04C9bC6297bB97ebc7FdE519018A693Bc86
