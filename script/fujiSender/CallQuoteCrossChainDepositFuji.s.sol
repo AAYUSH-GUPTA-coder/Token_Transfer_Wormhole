@@ -14,7 +14,7 @@ contract CallQuoteCrossChainDepositFuji is Script {
         uint256 cost = crossChainSender.quoteCrossChainDeposit(celoChainId);
         vm.stopBroadcast();
 
-        console.log("The cost of the cross-chain deposit is", cost);
+        console.log("The cost of the cross-chain transfer is", cost);
     }
 }
 
